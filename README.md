@@ -1,5 +1,5 @@
 # run-java-jar
-Run a shell script that might refer to a Java jar file or anything else.
+A Docker image for running shell script that might refer to a Java JAR file or anything else.
 
 I use this for deploying a Spring Boot application to AWS Elastic Beanstalk.
 
